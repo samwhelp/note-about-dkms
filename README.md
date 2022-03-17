@@ -16,4 +16,4 @@
 
 ## 範例
 
-* [範例]()
+* [範例](https://samwhelp.github.io/note-about-dkms/read/demo.html)
