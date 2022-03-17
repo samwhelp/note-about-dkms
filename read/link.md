@@ -23,7 +23,7 @@ has_children: false
 
 ## Debian Wiki
 
-* [rtl819x(https://wiki.debian.org/rtl819x)
+* [rtl819x](https://wiki.debian.org/rtl819x)
 
 
 ## 參考文章
