@@ -18,7 +18,7 @@ has_children: false
 
 ## Ubuntu Wiki
 
-* [DKMSPackaging](https://wiki.ubuntu.com/Kernel/Dev/DKMSPackagi)
+* [DKMSPackaging](https://wiki.ubuntu.com/Kernel/Dev/DKMSPackag)
 
 
 ## Debian Wiki
