@@ -17,3 +17,8 @@
 ## 範例
 
 * [範例](https://samwhelp.github.io/note-about-dkms/read/demo.html)
+
+
+## 相關討論
+
+* [#4 回覆: D-link DWA-121 安裝問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=363606#forumpost363606)
