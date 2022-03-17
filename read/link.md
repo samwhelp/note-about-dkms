@@ -16,7 +16,19 @@ has_children: false
 * [Dynamic Kernel Module Support](https://en.wikipedia.org/wiki/Dynamic_Kernel_Module_Support) ([中文](https://zh.wikipedia.org/zh-tw/動態核心模組支援))
 
 
+## Ubuntu Wiki
 
+* [DKMSPackaging](https://wiki.ubuntu.com/Kernel/Dev/DKMSPackagi)
+
+
+## Debian Wiki
+
+* [rtl819x(https://wiki.debian.org/rtl819x)
+
+
+## 參考文章
+
+* [在 Linux 下查詢硬體資訊的工具指令](https://blog.gtwang.org/linux/linux-hardware-information-command/)
 
 
 ## Just the Docs
