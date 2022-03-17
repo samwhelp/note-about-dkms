@@ -12,11 +12,18 @@
 ## 主題
 
 * [範例](#範例)
+* [連結](#連結)
+* [相關討論](#相關討論)
 
 
 ## 範例
 
 * [範例](https://samwhelp.github.io/note-about-dkms/read/demo.html)
+
+
+## 連結
+
+* [連結](https://samwhelp.github.io/note-about-dkms/read/link.html)
 
 
 ## 相關討論
